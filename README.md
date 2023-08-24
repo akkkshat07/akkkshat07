@@ -10,7 +10,7 @@
 
 - All I have is [https://github.com/akkkshat07](https://github.com/akkkshat07)
 
-- Currently learning **Data Structures & Data science and Analytics**
+- Currently learning **Data Structures**
 
 - Reach me at **akshaty2020@gmail.com**
 
