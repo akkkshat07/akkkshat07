@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akkkshat07&show_icons=true&locale=en" alt="akkkshat07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akkkshat07&theme=dark" alt="akkkshat07" /></p>
+
+<!-- Holopin -->
+
+[![@akkkshat07's Holopin board](https://www.holopin.io/@akkkshat07#)https://www.holopin.io/@akkkshat07#]
