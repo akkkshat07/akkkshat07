@@ -3,6 +3,8 @@
 <h3 align="center">STUDENT|DEVELOPER|CODER|DESIGNER|</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
 <p align="left"> <a href="https://twitter.com/akkkshat" target="blank"><img src="https://img.shields.io/twitter/follow/akkkshat?logo=twitter&style=for-the-badge" alt="akkkshat" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akkkshat07&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="akkkshat07" /> </p>
+
 
 - Billo Bagge Billeyan Da Ki Karegi [Bagge – Bagge Billeyan Da Ki Karegi](https://youtube.com/shorts/8x6sf0g061E?si=bXSTogLhGq2QwU8w)
 
