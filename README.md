@@ -31,5 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akkkshat07&theme=dark" alt="akkkshat07" /></p>
 
-<!-- Holopin -->
-[![An image of @akkkshat07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akkkshat07)](https://holopin.io/@akkkshat07)
