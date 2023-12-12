@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkkshat07&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="akkkshat07" /> </p>
 
 
-- Billo Bagge Billeyan Da Ki Karegi [Bagge – Bagge Billeyan Da Ki Karegi](https://youtube.com/shorts/8x6sf0g061E?si=bXSTogLhGq2QwU8w)
+
 
 - Let's talk about **web development and web designing**
 
