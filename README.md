@@ -1,4 +1,5 @@
-![Header](./[github-header-image.png])
+![Header](./github-header-image.png)
+
 <h1 align="center">Hey 👋, It's ak here</h1>
 <h3 align="center">STUDENT|AI&ML ENTHUSIAST|DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
