@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+![GIF Title](https://link-to-your-gif-file.gif)
+
 
 <h1 align="center">Hey 👋, It's ak here</h1>
 <h3 align="center">STUDENT|AI&ML ENTHUSIAST|DEVELOPER</h3>
