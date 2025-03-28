@@ -3,8 +3,8 @@
 ### 
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=akkkshat07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akkkshat07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=akkkshat07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akkkshat07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> 
   <img align="right" style="margin-left: -55px;" height="250" src="https://camo.githubusercontent.com/bb54522a037c1fe862032aa31bd2d35b8a3c765239dca3796cf37e0270749c43/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d3362643133393032326466626633623931656332303033313863633133313438" alt="GIF" />
 </div>
 
